@@ -138,11 +138,20 @@ Reviewer access is designed around database-backed authorization rather than sim
 | TransitPulse Passenger | Web and Android |
 | TransitPulse Reviewer | Web and Android |
  
-**Passenger Web Application:**  
+#### **Passenger Web Application:**  
 https://transitpulse-passenger.vercel.app/
 
-**Passenger Web Application:**  
+<img width="835" height="439" alt="Screenshot 2026-11-24 165202" src="https://github.com/user-attachments/assets/7372e3c8-9fb2-4ac6-a6ae-6e40ca015b35" />
+<img width="793" height="437" alt="Screenshot 2026-11-24 165214" src="https://github.com/user-attachments/assets/0d2609d7-8e1c-4507-938f-bcf5e087a998" />
+<img width="851" height="437" alt="Screenshot 2026-11-24 165233" src="https://github.com/user-attachments/assets/213e97b5-c1e3-46ef-8e08-1226093920eb" />
+<img width="840" height="437" alt="Screenshot 2026-11-24 165248" src="https://github.com/user-attachments/assets/41766a81-dcfe-4d43-b574-e65364c65cfe" />
+
+#### **Authenticator Web Application:**  
 https://transitpulse-authenticator.vercel.app/
+
+<img width="841" height="437" alt="Screenshot 2026-11-24 182543" src="https://github.com/user-attachments/assets/cc1c5ad8-541e-4b12-8b44-ed1514304f49" />
+<img width="814" height="439" alt="Screenshot 2026-11-24 182602" src="https://github.com/user-attachments/assets/291ea7d5-d07f-4917-bb34-4b1205d87e07" />
+<img width="814" height="437" alt="Screenshot 2026-11-24 182620" src="https://github.com/user-attachments/assets/59864565-f9b7-4a16-8e58-ac93d6593e7c" />
 
 ## Getting Started
 
@@ -155,6 +164,11 @@ Install the following tools:
 - Android Studio (for Android builds)
 
 ### 1. Clone the repository
+
+```bash
+git clone https://github.com/yash2942012-cpu/Transit-Pulse-Delhi.git
+cd Transit-Pulse-Delhi
+```
 
 ### 2. Install dependencies
 
